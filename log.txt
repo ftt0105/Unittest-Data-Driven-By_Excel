@@ -1,0 +1,6 @@
+Wed, 2021-03-17 02:19:44 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:65401/session -> http://127.0.0.1:65401/session/0dde0d65-46d1-49a6-b196-8749aa41fd3a
+Wed, 2021-03-17 02:19:52 data_driven_by_excel.py[line:68] INFO 搜索“邓肯”，期望“蒂姆111”，失败
+Wed, 2021-03-17 02:20:03 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:65516/session -> http://127.0.0.1:65516/session/968c8dd3-e12c-4876-b2a8-5daecc63636c
+Wed, 2021-03-17 02:20:10 data_driven_by_excel.py[line:74] INFO 搜索“乔丹”，期望“迈克尔”通过,耗时0.005346022367477417秒
+Wed, 2021-03-17 02:20:21 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:49224/session -> http://127.0.0.1:49224/session/db93c846-81ef-4a76-b775-21ad007569dd
+Wed, 2021-03-17 02:20:28 data_driven_by_excel.py[line:74] INFO 搜索“库里”，期望“斯蒂芬”通过,耗时0.005882198572158813秒
